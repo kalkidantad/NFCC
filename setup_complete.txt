@@ -1,1 +1,46 @@
 Setup completed successfully on Fri May  1 12:09:11 PM EAT 2026
+System Environment
+    Ubuntu (dual boot installation configured already)
+    Linux kernel confirmed via uname -a
+    User account created and active
+System Update
+    apt update executed successfully
+    apt upgrade completed
+    No critical repository errors after cleanup
+Core Development Tools
+    build-essential
+    git
+    curl
+    wget
+    unzip
+
+Python Environment
+    Miniconda installed successfully
+    Conda environment created: nfcc
+    Python version: 3.10.x
+    Environment activated and working
+Python Libraries Installed in nfcc
+    numpy
+    pandas
+    scikit-learn
+    xgboost
+    shap
+    geopandas
+    rasterio
+    streamlit
+    fastapi
+Jupyter Setup
+    notebook installed via pip
+    ipykernel installed
+    nfcc kernel registered for Jupyter
+    Jupyter notebook runs inside VS Code
+VS Code Setup
+    VS Code installed
+    Remote / Linux integration working
+    Python extension installed
+    Jupyter extension installed
+    Connected to Ubuntu environment
+Git Setup
+    Git installed
+    GitHub account configured
+    Repository cloned successfully
